@@ -1,9 +1,0 @@
-{
-  "remoteURL": "git@github.com:liangyuhao18/notebook.git",
-  "gitLocation": "",
-  "syncinterval": 0,
-  "isSyncOnLoad": false,
-  "checkStatusOnLoad": true,
-  "noticeLevel": "ALL",
-  "showSyncSuccessNotice": true
-}
